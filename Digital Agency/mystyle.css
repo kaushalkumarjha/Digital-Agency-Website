@@ -1,0 +1,347 @@
+.body{
+    margin:0px;
+    padding: 0px;
+}
+.container{
+    height:auto;
+    width:auto;
+    background-color:aliceblue;
+}
+.header{
+    display: inline-flex;
+    height:100px;
+    width:100%;
+    color: orange;
+    padding-top: 30x;
+    background-color:whitesmoke;
+}
+.works{
+    margin-left: 500px;
+    display: inline-flex;
+    
+}
+.logo img
+{
+    height:700px;
+    width:1500px;
+    background-image: "leader.jpg";
+    margin-top: 50px;
+   
+    
+}
+.about{
+    margin-top: 100px;
+    margin-left: 600px;
+    justify-content: center;
+    color: beige;
+    background-color: black;
+}
+.logo1 img{
+    height:600px;
+    width:100%;
+    
+}
+
+.para{
+    margin-left: 400px;
+    height:150px;
+    width:600px;
+    color:whitesmoke;
+    background-color:black;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+.card{
+    height: 300px;
+    width:400px;
+    margin-left: 500px;
+    margin-top: 50px;
+    padding:20px;
+    color:white;
+    background-color: yellowgreen;
+
+}
+.allcards{
+    display:inline-flex
+    ;
+}
+.card1{
+    
+    width: 500px;
+    height: 250px;
+    background-color: goldenrod;
+    margin-left: 200px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.card2{
+    width:500px;
+    height:250px;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-left: 150px;
+    padding: 10px;
+
+}.servicefull{
+    background-color: white;
+}
+.services{
+    margin-left: 650px;
+    padding-top: 20px;
+}
+.servicecont{
+    margin-left: 500px;
+}
+.services span{
+    margin-left: 100px;
+}
+.servicecard{
+    display: inline-flex;
+}
+.service1{
+    height:400px;
+    width:200px;
+    background-color: whitesmoke;
+    padding: 20px;
+    color: black;
+    margin-top: 20px;
+    margin-left: 150px;
+    padding: 10px;
+}
+.service1 img{
+    height: 200px;
+    width: 200px;
+}
+.service2{
+    height:400px;
+    width:200px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 150px;
+    padding: 10px;
+}
+.service2 img{
+    height: 200px;
+    width: 200px;
+}
+.service3{
+    height:400px;
+    width:200px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 150px;
+    padding: 10px;
+}
+.service3 img{
+    height: 200px;
+    width: 200px;
+}
+.service4{
+    height:400px;
+    width:200px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 150px;
+    padding: 10px;
+}
+.service4 img{
+    height: 200px;
+    width: 200px;
+}
+.servicecard2{
+    display: inline-flex;
+}
+.service5{
+    height:400px;
+    width:200px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.service5 img{
+    height: 200px;
+    width: 200px;
+}
+
+.service6{
+    height:400px;
+    width:200px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.service6 img{
+    height: 200px;
+    width: 200px;
+}
+.service7{
+    height:400px;
+    width:200px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.service7 img{
+    height: 200px;
+    width: 200px;
+}
+.service8{
+    height:400px;
+    width:200px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.service8 img{
+    height: 200px;
+    width: 200px;
+}
+.contact{
+    margin-left: 650px;
+}
+.contactcards{
+    display: inline-flex;
+}
+.contact1{
+    height:50px;
+    width:250px;
+    padding-left: 10px;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    margin-left: 350px;
+   
+}
+.contact2{
+    height:50px;
+    width:250px;
+    padding-left: 10px;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.contact3{
+    height:50px;
+    width:250px;
+    padding-left: 10px;
+    background-color: red;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.mainteam{
+    margin-left: 550px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.teampic{
+    display: inline-flex;
+}
+.founder1{
+    height:400px;
+    width:200px;
+    background-color: wheat;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.founder1 img{
+    height: 200px;
+    width: 200px;
+}
+.founder2{
+    height:400px;
+    width:200px;
+    background-color: wheat;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.founder2 img{
+    height: 200px;
+    width: 200px;
+}
+.founder3{
+    height:400px;
+    width:200px;
+    background-color: wheat;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.founder3 img{
+    height: 200px;
+    width: 200px;
+}
+.fullreview{
+    background-color: brown;
+    
+}
+.review{
+    margin-left: 700px;
+    color: white;
+}
+.comments{
+    display: inline-flex;
+}
+.cmnt1{
+    height:400px;
+    width:200px;
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.cmnt1 img{
+    height: 200px;
+    width:200px;
+}
+.cmnt2{
+    height:400px;
+    width:200px;
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}.cmnt2s img{
+    height: 200px;
+    width:200px;
+}
+.cmnt3{
+    height:400px;
+    width:200px;
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+.cmnt3 img{
+    height: 200px;
+    width:200px;
+}
+.cmnt4{
+    height:400px;
+    width:200px;
+    background-color: aliceblue;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.cmnt4 img{
+    height: 200px;
+    width:200px;
+}
